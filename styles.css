@@ -117,7 +117,7 @@ h2{
 
 /*Mobile interface*/
 
-@media (max-width: 480px) {
+@media (max-width: 530px) {
     .main-div{
         width: 350px;
         height: 600px;
